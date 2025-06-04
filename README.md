@@ -1,1 +1,1 @@
-# food_planet_web
+# food_planet_web_client
